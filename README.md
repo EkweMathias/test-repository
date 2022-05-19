@@ -1,6 +1,2 @@
-# test-repository
-
-
-This is a new edit from my local Computer
-
-Nothing serius just testing
+# My first repo
+This is quite interesting and user friendly
