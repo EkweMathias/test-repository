@@ -1,2 +1,1 @@
-# test-repository
-This is a description
+# My first repo
